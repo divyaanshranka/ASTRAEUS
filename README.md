@@ -8,7 +8,7 @@ To make aerospace engineering, simulation, and research accessible to anyone thr
 # Core Objectives
 ASTRAEUS develops along four parallel impact paths:
 
-##1. Educational Platform
+## 1. Educational Platform
 Provide an accessible environment for learning:
 - Rocket flight dynamics
 - Orbital mechanics
